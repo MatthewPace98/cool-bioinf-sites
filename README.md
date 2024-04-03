@@ -1,32 +1,33 @@
-# Fun
-- [Pink Trombone: Human Voice Simulator](https://dood.al/pinktrombone/)
-- [STL to ASCII Generator](https://andrewsink.github.io/STL-to-ASCII-Generator/)
+# Cool
+- [Pink Trombone: Human Voice Simulator](https://dood.al/pinktrombone/): No description is sufficient
+- [STL to ASCII Generator](https://andrewsink.github.io/STL-to-ASCII-Generator/): Converts STL objects to 3D ASCII
+- [Data to Art](https://www.data-to-art.com/): Project made to promote art made from Data
 
 # Useful
-- [MolStar](https://molstar.org/)
 - [awesome-genome-visualization](https://cmdcolin.github.io/awesome-genome-visualization/?latest=true): Collection of genome browsers and visualisation tools
 - [10x scRNAseq Mouse Whole Brain](https://knowledge.brain-map.org/abcatlas): Interactive mouse brain atlas
 - [Gut cell atlas](https://www.gutcellatlas.org/spacetime/full/):Interactive gut cell atlas
 - [Human Cell Explorer](https://www.bdbiosciences.com/en-gb/resources/reagent-selection-tools/interactive-cell-map)
 - [Tabula Sapiens](https://cellxgene.cziscience.com/e/53d208b0-2cfd-4366-9866-c3c6114081bc.cxg/): Human cell atlas of 500,000 cells from 24 organs
+- [CZ CELLxGENE Discover](https://cellxgene.cziscience.com/): Explore gene expression data of different cell and tissue types.
 
-# Fun and Useful
+# Cool and Useful
 - [Vahaduo G25](https://vahaduo.github.io/3d/g25/): PCA visualising human genetic variation across all ethnicities
 - [Neurotorium Brain Atlas](https://neurotorium.org/tool/brain-atlas/): Interactive human brain model
 
 # Immpressive personal websites 
-- [MaltiOmics](https://maltiomics.com/): ~~My own site~~ The best one in this list
-- [Yan Holtz](https://www.yan-holtz.com/)
-- [Samuel Reed](https://www.strml.net/)
-- [Gaston Sanchez](https://www.gastonsanchez.com/)
-- [Fayemi Design](https://www.fayemi.design/)
-- [Mariah Weathersby](http://play.mariahweathersby.com/)
-- [R Leonardi](http://www.rleonardi.com/)
-- [Rubens Design](https://www.rubens.design/)
-- [Renaudroh Linger](https://renaudrohlinger.com/)
+- [MaltiOmics](https://maltiomics.com/): ~~My own~~ The greatest site ever made
+- [Yan Holtz](https://www.yan-holtz.com/): Master of data viz, created many of the sites listed in this list
+- [Samuel Reed](https://www.strml.net/): Award-winning
+- [Gaston Sanchez](https://www.gastonsanchez.com/): Award-winning
+- [Fayemi Design](https://www.fayemi.design/): Award-winning
+- [Mariah Weathersby](http://play.mariahweathersby.com/): Award-winning
+- [R Leonardi](http://www.rleonardi.com/): Award-winning
+- [Rubens Design](https://www.rubens.design/): Award-winning
+- [Renaudroh Linger](https://renaudrohlinger.com/): Award-winning
 
 # Data Visualisation
-- [R Graph Gallery](https://r-graph-gallery.com/)
-- [Data to Art](https://www.data-to-art.com/)
-- [The D3.js Graph Gallery](https://d3-graph-gallery.com/)
-- [From Data to Viz](https://www.data-to-viz.com/): a decision tree leading to the most appropriate chart type for your data.
+- [MolStar](https://molstar.org/): Site for visualisation of large-scale molecular data
+- [R Graph Gallery](https://r-graph-gallery.com/): Guide to R data visualisation
+- [The D3.js Graph Gallery](https://d3-graph-gallery.com/): Collection of simple charts made with d3.js Javascript library
+- [From Data to Viz](https://www.data-to-viz.com/): Decision tree leading to the most appropriate chart type for your data
