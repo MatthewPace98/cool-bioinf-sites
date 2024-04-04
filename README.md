@@ -7,7 +7,6 @@
 - [awesome-genome-visualization](https://cmdcolin.github.io/awesome-genome-visualization/?latest=true): Collection of genome browsers and visualisation tools
 - [10x scRNAseq Mouse Whole Brain](https://knowledge.brain-map.org/abcatlas): Interactive mouse brain atlas
 - [Gut cell atlas](https://www.gutcellatlas.org/spacetime/full/):Interactive gut cell atlas
-- [Human Cell Explorer](https://www.bdbiosciences.com/en-gb/resources/reagent-selection-tools/interactive-cell-map)
 - [Tabula Sapiens](https://cellxgene.cziscience.com/e/53d208b0-2cfd-4366-9866-c3c6114081bc.cxg/): Human cell atlas of 500,000 cells from 24 organs
 - [CZ CELLxGENE Discover](https://cellxgene.cziscience.com/): Explore gene expression data of different cell and tissue types.
 
