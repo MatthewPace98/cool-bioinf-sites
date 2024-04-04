@@ -14,7 +14,7 @@
 - [Vahaduo G25](https://vahaduo.github.io/3d/g25/): PCA visualising human genetic variation across all ethnicities
 - [Neurotorium Brain Atlas](https://neurotorium.org/tool/brain-atlas/): Interactive human brain model
 
-# Immpressive personal websites 
+# Impressive personal websites 
 - [MaltiOmics](https://maltiomics.com/): ~~My own~~ The greatest site ever made
 - [Yan Holtz](https://www.yan-holtz.com/): Master of data viz, created many of the sites listed in this list
 - [Samuel Reed](https://www.strml.net/): Award-winning
