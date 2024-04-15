@@ -26,7 +26,8 @@
 - [Renaudroh Linger](https://renaudrohlinger.com/): Award-winning
 
 # Data Visualisation
-- [MolStar](https://molstar.org/): Site for visualisation of large-scale molecular data
 - [R Graph Gallery](https://r-graph-gallery.com/): Guide to R data visualisation
 - [The D3.js Graph Gallery](https://d3-graph-gallery.com/): Collection of simple charts made with d3.js Javascript library
 - [From Data to Viz](https://www.data-to-viz.com/): Decision tree leading to the most appropriate chart type for your data
+- [3D Protein Imaging](https://3dproteinimaging.com/): Site for visualisation of large-scale molecular data
+- [MolStar](https://molstar.org/): Site for visualisation of large-scale molecular data
