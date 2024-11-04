@@ -28,7 +28,7 @@
 - [Rubens Design](https://www.rubens.design/)
 - [Renaudroh Linger](https://renaudrohlinger.com/)
 
-# Impressive company website design
+# Impressive biotech startup website design
 - [Eleven Therapeutics](https://eleventx.com/)
 - [Bicycle Therapeutics](https://www.bicycletherapeutics.com/)
 - [STORM Therapeutics](https://www.stormtherapeutics.com/)
@@ -36,6 +36,7 @@
 - [bit.bio](https://www.bit.bio/)
 - [Alnylam Pharmaceuticals](https://www.alnylam.com/)
 - [Ochre Bio](https://www.ochre-bio.com/)
+- [Relay Therapeutics](https://relaytx.com/)
 
 # Data Visualisation
 - [R Graph Gallery](https://r-graph-gallery.com/): Guide to R data visualisation
