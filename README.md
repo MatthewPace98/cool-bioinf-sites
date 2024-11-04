@@ -10,6 +10,7 @@
 - [Tabula Sapiens](https://cellxgene.cziscience.com/e/53d208b0-2cfd-4366-9866-c3c6114081bc.cxg/): Human cell atlas of 500,000 cells from 24 organs
 - [CZ CELLxGENE Discover](https://cellxgene.cziscience.com/): Explore gene expression data of different cell and tissue types.
 - [Human Multi-Omics Atlas](https://www.singlecellatlas.org/sca-atlas): Adult and foetal human Multi-Omic data
+- [TechBio Company Database](https://harrisbio.notion.site/TechBio-Company-Database-f00bce7d909247b0aa6d7a908a24e869): Database of companies in the TechBio scene
 
 # Cool and Useful
 - [Vahaduo G25](https://vahaduo.github.io/3d/g25/): PCA visualising human genetic variation across all ethnicities
