@@ -1,8 +1,3 @@
-# Cool
-- [Pink Trombone: Human Voice Simulator](https://dood.al/pinktrombone/): No description is sufficient
-- [STL to ASCII Generator](https://andrewsink.github.io/STL-to-ASCII-Generator/): Converts STL objects to 3D ASCII
-- [Data to Art](https://www.data-to-art.com/): Project made to promote art made from Data
-
 # Useful
 - [awesome-genome-visualization](https://cmdcolin.github.io/awesome-genome-visualization/?latest=true): Collection of genome browsers and visualisation tools
 - [10x scRNAseq Mouse Whole Brain](https://knowledge.brain-map.org/abcatlas): Interactive mouse brain atlas
@@ -12,21 +7,35 @@
 - [Human Multi-Omics Atlas](https://www.singlecellatlas.org/sca-atlas): Adult and foetal human Multi-Omic data
 - [TechBio Company Database](https://harrisbio.notion.site/TechBio-Company-Database-f00bce7d909247b0aa6d7a908a24e869): Database of companies in the TechBio scene
 
+# Cool
+- [Pink Trombone: Human Voice Simulator](https://dood.al/pinktrombone/): No description is sufficient
+- [STL to ASCII Generator](https://andrewsink.github.io/STL-to-ASCII-Generator/): Converts STL objects to 3D ASCII
+- [Data to Art](https://www.data-to-art.com/): Project made to promote art made from Data
+
 # Cool and Useful
 - [Vahaduo G25](https://vahaduo.github.io/3d/g25/): PCA visualising human genetic variation across all ethnicities
 - [Neurotorium Brain Atlas](https://neurotorium.org/tool/brain-atlas/): Interactive human brain model
 - [Time Tree](https://timetree.org/): Public knowledge-base for information on the evolutionary timescale of life
 
-# Impressive personal websites 
+# Impressive personal website design
 - [MaltiOmics](https://maltiomics.com/): My own creation
 - [Yan Holtz](https://www.yan-holtz.com/): Master of data viz, created many of the sites listed in this list
-- [Samuel Reed](https://www.strml.net/): Award-winning
-- [Gaston Sanchez](https://www.gastonsanchez.com/): Award-winning
-- [Fayemi Design](https://www.fayemi.design/): Award-winning
-- [Mariah Weathersby](http://play.mariahweathersby.com/): Award-winning
-- [R Leonardi](http://www.rleonardi.com/): Award-winning
-- [Rubens Design](https://www.rubens.design/): Award-winning
-- [Renaudroh Linger](https://renaudrohlinger.com/): Award-winning
+- [Samuel Reed](https://www.strml.net/)
+- [Gaston Sanchez](https://www.gastonsanchez.com/)
+- [Fayemi Design](https://www.fayemi.design/)
+- [Mariah Weathersby](http://play.mariahweathersby.com/)
+- [R Leonardi](http://www.rleonardi.com/)
+- [Rubens Design](https://www.rubens.design/)
+- [Renaudroh Linger](https://renaudrohlinger.com/)
+
+# Impressive company website design
+- [Eleven Therapeutics](https://eleventx.com/)
+- [Bicycle Therapeutics](https://www.bicycletherapeutics.com/)
+- [STORM Therapeutics](https://www.stormtherapeutics.com/)
+- [Cambrian Bio](https://www.cambrianbio.com/)
+- [bit.bio](https://www.bit.bio/)
+- [Alnylam Pharmaceuticals](https://www.alnylam.com/)
+- [Ochre Bio](https://www.ochre-bio.com/)
 
 # Data Visualisation
 - [R Graph Gallery](https://r-graph-gallery.com/): Guide to R data visualisation
