@@ -44,3 +44,4 @@
 - [From Data to Viz](https://www.data-to-viz.com/): Decision tree leading to the most appropriate chart type for your data
 - [3D Protein Imaging](https://3dproteinimaging.com/): Site for visualisation of large-scale molecular data
 - [MolStar](https://molstar.org/): Site for visualisation of large-scale molecular data
+- [PlotAPI](https://plotapi.com/): Build beautiful, animated and interactive data viz (paidware)
