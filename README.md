@@ -48,3 +48,4 @@
 
 # Essays
 - [Machines of Loving Grace](https://darioamodei.com/machines-of-loving-grace): Dario Amodei (CEO of Anthropic) talks about the potential future of AI.
+- [Can a Biologist Fix a Radio?](https://www.cell.com/cancer-cell/fulltext/S1535-6108%2802%2900133-2): Yuri Lazebnik likens fixing a molecular pathway with fixing a broken radio.
