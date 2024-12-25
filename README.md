@@ -11,6 +11,7 @@
 - [Pink Trombone: Human Voice Simulator](https://dood.al/pinktrombone/): No description is sufficient
 - [STL to ASCII Generator](https://andrewsink.github.io/STL-to-ASCII-Generator/): Converts STL objects to 3D ASCII
 - [Data to Art](https://www.data-to-art.com/): Project made to promote art made from Data
+- [MoeBio LLM Visualisation](https://moebio.com/mind/): Visualisation of how an LLM "thinks".
 
 # Cool and Useful
 - [Vahaduo G25](https://vahaduo.github.io/3d/g25/): PCA visualising human genetic variation across all ethnicities
