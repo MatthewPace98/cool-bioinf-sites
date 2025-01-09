@@ -50,3 +50,4 @@
 # Essays
 - [Machines of Loving Grace](https://darioamodei.com/machines-of-loving-grace): Dario Amodei (CEO of Anthropic) talks about the potential future of AI
 - [Can a Biologist Fix a Radio?](https://www.cell.com/cancer-cell/fulltext/S1535-6108%2802%2900133-2): Yuri Lazebnik likens fixing a molecular pathway with fixing a broken radio.
+- [I Fooled Millions Into Thinking Chocolate Helps Weight Loss](https://gizmodo.com/i-fooled-millions-into-thinking-chocolate-helps-weight-1707251800): John Bohannon purposefully uses the multiple comparisons problem to his advantage to "proove" all the health benefits associated with eating chocolate.
