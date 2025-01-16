@@ -8,10 +8,11 @@
 - [TechBio Company Database](https://harrisbio.notion.site/TechBio-Company-Database-f00bce7d909247b0aa6d7a908a24e869): Database of companies in the TechBio scene
 
 # Cool
-- [Pink Trombone: Human Voice Simulator](https://dood.al/pinktrombone/): No description is sufficient
+- [MoeBio LLM Visualisation](https://moebio.com/mind/): Visualisation of how an LLM "thinks"
 - [STL to ASCII Generator](https://andrewsink.github.io/STL-to-ASCII-Generator/): Converts STL objects to 3D ASCII
 - [Data to Art](https://www.data-to-art.com/): Project made to promote art made from Data
-- [MoeBio LLM Visualisation](https://moebio.com/mind/): Visualisation of how an LLM "thinks"
+- [Pink Trombone: Human Voice Simulator](https://dood.al/pinktrombone/): No description is sufficient
+- [Jeffrey Ventrella's Algorithms](https://ventrella.com/): A number of algorithms simulating various aspects of evolution, ecology, and the emergence of complexity from simple rules.
 
 # Cool and Useful
 - [Vahaduo G25](https://vahaduo.github.io/3d/g25/): PCA visualising human genetic variation across all ethnicities
