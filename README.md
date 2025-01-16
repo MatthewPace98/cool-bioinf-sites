@@ -12,7 +12,7 @@
 - [STL to ASCII Generator](https://andrewsink.github.io/STL-to-ASCII-Generator/): Converts STL objects to 3D ASCII
 - [Data to Art](https://www.data-to-art.com/): Project made to promote art made from Data
 - [Pink Trombone: Human Voice Simulator](https://dood.al/pinktrombone/): No description is sufficient
-- [Jeffrey Ventrella's Algorithms](https://ventrella.com/): A number of algorithms simulating various aspects of evolution, ecology, and the emergence of complexity from simple rules.
+- [Jeffrey Ventrella's Algorithms](https://ventrella.com/): Art, math, evolution, and quirky niche theories. Love this guy.
 
 # Cool and Useful
 - [Vahaduo G25](https://vahaduo.github.io/3d/g25/): PCA visualising human genetic variation across all ethnicities
