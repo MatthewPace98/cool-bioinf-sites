@@ -6,6 +6,7 @@
 - [CZ CELLxGENE Discover](https://cellxgene.cziscience.com/): Explore gene expression data of different cell and tissue types
 - [Human Multi-Omics Atlas](https://www.singlecellatlas.org/sca-atlas): Adult and foetal human Multi-Omic data
 - [TechBio Company Database](https://harrisbio.notion.site/TechBio-Company-Database-f00bce7d909247b0aa6d7a908a24e869): Database of companies in the TechBio scene
+- [Overlapping Data Viz with UpSet](https://upset.app): Application that visualises complex overlapping data
 
 # Cool
 - [MoeBio LLM Visualisation](https://moebio.com/mind/): Visualisation of how an LLM "thinks"
