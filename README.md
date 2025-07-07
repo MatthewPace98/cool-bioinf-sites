@@ -16,7 +16,7 @@
 - [Jeffrey Ventrella's Clusters](https://ventrella.com/Clusters/): Simulation of how complexity can emerge from simple rules
 
 # Cool and Useful
-- [Neural Network Playground]([https://vahaduo.github.io/3d/g25/](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.12703&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)): Visualising the effects of various parameters on neural network learning
+- [Neural Network Playground](https://vahaduo.github.io/3d/g25/](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.12703&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)): Visualising the effects of various parameters on neural network learning
 - [Vahaduo G25](https://vahaduo.github.io/3d/g25/): PCA visualising human genetic variation across all ethnicities
 - [Neurotorium Brain Atlas](https://neurotorium.org/tool/brain-atlas/): Interactive human brain model
 - [Time Tree](https://timetree.org/): Public knowledge-base for information on the evolutionary timescale of life
