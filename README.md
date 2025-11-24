@@ -31,6 +31,7 @@
 - [R Leonardi](http://www.rleonardi.com/)
 - [Rubens Design](https://www.rubens.design/)
 - [Renaudroh Linger](https://renaudrohlinger.com/)
+- [Max Bittker](https://maxbittker.com/)
 
 # Impressive biotech startup website design
 - [Eleven Therapeutics](https://eleventx.com/)
