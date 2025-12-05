@@ -14,6 +14,7 @@
 - [Data to Art](https://www.data-to-art.com/): Project made to promote art made from Data
 - [Pink Trombone: Human Voice Simulator](https://dood.al/pinktrombone/): No description is sufficient
 - [Jeffrey Ventrella's Clusters](https://ventrella.com/Clusters/): Simulation of how complexity can emerge from simple rules
+- [Sandbox Science Particle Life](https://sandbox-science.com/particle-life): Another webtoy for emergent complexity
 
 # Cool and Useful
 - [Neural Network Playground](https://vahaduo.github.io/3d/g25/](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.12703&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)): Visualising the effects of various parameters on neural network learning
