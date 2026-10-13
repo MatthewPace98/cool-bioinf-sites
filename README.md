@@ -21,6 +21,8 @@
 - [Vahaduo G25](https://vahaduo.github.io/3d/g25/): PCA visualising human genetic variation across all ethnicities
 - [Neurotorium Brain Atlas](https://neurotorium.org/tool/brain-atlas/): Interactive human brain model
 - [Time Tree](https://timetree.org/): Public knowledge-base for information on the evolutionary timescale of life
+- [Adventures in Cognitive Biases](https://cassandraxia.com/cogbiases/): Text-based adventure based on Bayesian statistics and cognitive biases
+- [Trust](https://ncase.me/trust/): Application of game theory to the ideal levels of trust of forgiveness
 
 # Impressive personal website design
 - [MaltiOmics](https://maltiomics.com/): My own creation
